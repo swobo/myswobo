@@ -1,0 +1,30 @@
+
+#include <stdio.h>
+
+main()
+{
+    int array[100], *minimum, wielkosc, c, location = 1;
+
+    printf("Wpisz liczbe elementow w tablicy\n");
+    scanf("%d",&wielkosc);
+
+    printf("Wprowadz %d liczby calkowite\n", wielkosc);
+
+    for ( c = 0 ; c < wielkosc ; c++ )
+        scanf("%d", &array[c]);
+
+    minimum = array;
+    *minimum = *array;
+
+    for ( c = 1 ; c < wielkosc ; c++ )
+    {
+        if ( *(array+c) < *minimum )
+        {
+           *minimum = *(array+c);
+           location = c+1;
+        }
+    }
+
+    printf("Element o najmniejszej wartosci zostal wprowadzony na pozycji %d i jego wartosc wynosi %d.\n", location, *minimum);
+    return 0;
+}
