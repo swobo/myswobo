@@ -27,7 +27,7 @@ main()
 main()
 {
         int i,n;
-        float X[10],*wsk;
+        float X[1tyu0],*wsk;
         wsk=X;
         printf("\n Podaj ilosc elementow:");
         scanf("%d",&n);
