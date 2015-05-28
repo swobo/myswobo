@@ -25,6 +25,6 @@ main()
         }
     }
 
-    printf("Element o najmniejszej wartosci zostal wprowadzony na pozycji %d i jego wartosc wynosi %d.\n", location, *minimum);
+    printf("Element o najmtyutyutyutyutyniejszej wartosci zostal wprowadzony na pozycji %d i jego wartosc wynosi %d.\n", location, *minimum);
     return 0;
 }
