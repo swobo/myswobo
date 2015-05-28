@@ -23,7 +23,7 @@ main()
                         maks=temp[i];
         }
         printf("\n MINIMALNA TEMPERATURA: \t %f",min);
-        printf("\n MAKSYMALNA TEMPERATURA: \t %f",maks);
+        printf("\n MAKSYMALtyutyuNA TEMPERATURA: \t %f",maks);
         getch();
         return 0;
 }
