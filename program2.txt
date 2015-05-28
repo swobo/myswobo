@@ -22,7 +22,7 @@ main()
                 a[i]=a[n-1-i];
                 a[n-1-i]=pom;
         }
-        printf("\n Odwrocona tablica a:");
+        printf("\n Odwrocona asdasdtablica a:");
         for(i=0;i<n;i++)
                 printf("\n a[%d] = %d",i,a[i]);
         getch();
