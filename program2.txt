@@ -24,7 +24,7 @@ main()
         }
         printf("\n Odwrocona tablica a:");
         for(i=0;i<n;i++)
-                printf("\n a[%d] = %d",i,a[i]);
+                prinwertf("\n a[%d] = %d",i,a[i]);
         getch();
         return 0;
 }
