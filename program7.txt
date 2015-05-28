@@ -29,7 +29,7 @@ main()
         int i,n;
         float X[10],*wsk;
         wsk=X;
-        printf("\n Podaj ilosc elementow:");
+        printf("\n Podaj ilosc eqwqwementow:");
         scanf("%d",&n);
         for(i=0;i<n;i++)
         {
