@@ -1,4 +1,4 @@
-// Sumowanie liczb przy wykorzystaniu pêtli while
+// Sumowanie liczb przy wykorzystaniu pÄ™tli while
 
 #include <stdio.h>
 #include <conio.h>
@@ -18,7 +18,7 @@ int main()
         }
         printf("\n Suma wczytanych liczb wynosi: %d",suma);
  printf("\n Suma wczytanych liczb wynosi: %d",suma);
- printf("\n Suma wczytanych liczb wynosi: %d",suma);
+ printf("\n Suma wczytanych rwerliczb wynosi: %d",suma);
  printf("\n Suma wczytanych liczb wynosi: %d",suma);
  printf("\n Suma wczytanych liczb wynosi: %d",suma);
 
