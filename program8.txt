@@ -24,6 +24,6 @@ int main()
     }
   }
 
-  printf("Element o najwiekszej wartosci zostal wprowadzony na pozycji %d i jego wartosc wynosi %d.\n", location, maximum);
+  printf("Element o najwiekqwqwszej wartosci zostal wprowadzony na pozycji %d i jego wartosc wynosi %d.\n", location, maximum);
   return 0;
 }
