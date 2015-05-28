@@ -1,4 +1,4 @@
-// Rozwiπzywanie rÛwnania kwadratowego
+// Rozwi≈°zywanie r√≥wnania kwadratowego
 
 #include "stdio.h"
 #include "conio.h"
@@ -11,7 +11,7 @@ int main()
         do
         {
                 //clrscr();
-                printf("\n Rozwiazywanie rownania kwadratowego \n\n");
+                printf("\n Rozwiazywerwewerwerwanie rownania kwadratowego \n\n");
                 do
                 {
                         printf(" Podaj a: \n a = ");
