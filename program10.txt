@@ -4,6 +4,7 @@
 main()
 {
         int A[10],i,n;
+        //XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
         printf("\n Podaj ilosc elementow tablicy A:\n n = ");
         scanf("%d",&n);
         if(n>0&&n<=10)
